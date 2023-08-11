@@ -13,6 +13,15 @@ Saya berasal dari **Universitas Multi Data Palembang**.
 
 Follow [LinkedIn](https://www.linkedin.com/in/rivaldo-7b2289174/) saya!!! dan ikuti postingan dari saya!!!
 
+<p align="left">
+<a href="https://github.com/Rivaldo2125250065">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rivaldo2125250065&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rivaldo2125250065&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+
 
 
 
