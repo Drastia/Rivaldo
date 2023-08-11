@@ -6,6 +6,8 @@ Saya berasal dari **Universitas Multi Data Palembang**.
 #### Saya berpengalaman di bidang :
 * **UI/UX Design**.
 * **Web and Android front end programming**.
+* **Good at using database with MySQL**
+* **Can use PhpMyAdmin with its function**
 * **Already good at java language at eclipse**.
 * **Good at using Canva and Figma**.
 
